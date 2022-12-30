@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bucket List</string>
+    <string name="button_save">SAVE</string>
+    <string name="add_item_instructions">Please provide the following information to add a new bucket item to your list.</string>
+    <string name="pick_date">Set date</string>
+    <string name="completed_toggle">Completed?</string>
+    <string name="edit_item_instructions">Please provide the following information to edit your bucket item.</string>
+</resources>
